@@ -1,0 +1,27 @@
+after code-: 1. unit test, 2. Assembly test
+
+3. System Testing done by the testers
+
+4. User acceptence test
+
+CR- change request
+
+RTC- rational team concert (used to generate tickets)
+
+
+Regression testing: check if the exisiting funcitonality dosn't break
+
+Integration testing: testing functionality in which external partners are involved
+
+
+
+DEPLOYNENT PHASE:
+
+
+
+CDN: content delivery network (Hosting providers)
+
+Architecures: 
+
+1. Monolith - heavy lift (all pages in one )
+2. light weight - 
